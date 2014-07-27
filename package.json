@@ -1,0 +1,29 @@
+{
+  "name": "nee-off",
+  "version": "0.0.0",
+  "description": "Novel Event Emitter off function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nrn/nee-off"
+  },
+  "keywords": [
+    "novel",
+    "event",
+    "emitter",
+    "off"
+  ],
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrn/nee-off/issues"
+  },
+  "homepage": "https://github.com/nrn/nee",
+  "devDependencies": {
+    "tape": "^2.13.4",
+    "nee": "0.0.1"
+  }
+}
